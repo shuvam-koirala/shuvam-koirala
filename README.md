@@ -30,6 +30,6 @@ But learn from all these to make me better everyday.
 
 [<img align="center" alt="Shuvam Koirala | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />](https://medium.com/@suvamkoirala08)&ensp;Medium: [@ShuvamKoirala](https://medium.com/@suvamkoirala08 "Medium Shuvam Koirala")
 
-[<img align="center" alt="Shuvam Koirala | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://www.shuvamkoirala.com.np)&ensp;Website: [@ShuvamKoirala](https://www.shuvamkoirala.com.np "Website Shuvam Koirala")
+[<img align="center" alt="Shuvam Koirala | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://shuvam-koirala.github.io/portfolio/?i=1)&ensp;Website: [@ShuvamKoirala](https://shuvam-koirala.github.io/portfolio/?i=1 "Website Shuvam Koirala")
 
 
