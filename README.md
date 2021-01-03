@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there everyone 👋
+I am human 😄,
+I have weakness,
+I make mistakes,
+I experience sadness 
+But learn from all these to make me better everyday.
 
-<!--
-**shuvam-koirala/shuvam-koirala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on creating Flutter Applications.
+- 🌱 I’m currently learning to create games using godot game engine.
+- 👯 I’m looking to collaborate on some cool open source projects.
+- 🤔 I’m looking for help with native functionality in flutter applications.
+- 💬 We can have some discussions on interesting tech topics.
+- 📫 How to reach me: suvamkoirala08@gmail.com
+- 😄 Pronouns: curious coder| shuvu
+- ⚡ Fun fact: Humans are the only animals that blush and I think myself as human 😄.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
