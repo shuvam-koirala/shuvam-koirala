@@ -22,7 +22,7 @@ But learn from all these to make me better everyday.
 
 [<img align="center" alt="Shuvam Koirala | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />](https://www.instagram.com/shuvu1112/)&ensp;Instagram: [@ShuvamKoirala](https://www.instagram.com/shuvu1112 "Instagram Shuvam Koirala")
 
-[<img align="center" alt="Shuvam Koirala | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />](https://www.facebook.com/real.JohannesMilke)&ensp;Facebook: [@ShuvamKoirala](https://www.facebook.com/real.JohannesMilke "Facebook Shuvam Koirala")
+[<img align="center" alt="Shuvam Koirala | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />](https://www.facebook.com/shuvu00)&ensp;Facebook: [@ShuvamKoirala](https://www.facebook.com/shuvu00 "Facebook Shuvam Koirala")
 
 [<img align="center" alt="Shuvam Koirala | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />](https://linkedin.com/in/JohannesMilke)&ensp;LinkedIn: [@ShuvamKoirala](https://linkedin.com/in/JohannesMilke "LinkedIn Shuvam Koirala")
 
