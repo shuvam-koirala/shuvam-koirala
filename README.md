@@ -1,9 +1,4 @@
 ### Hi there everyone 👋
-I am human 😄,
-I have weakness,
-I make mistakes,
-I experience sadness 
-But learn from all these to make me better everyday.
 
 - 🔭 I’m currently working on creating Flutter Applications.
 - 🌱 I’m currently learning to create games using godot game engine.
