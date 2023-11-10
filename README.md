@@ -1,9 +1,9 @@
 ### Hi there everyone 👋
 
-- 🔭 I’m currently working on creating Flutter Applications.
+- 🔭 I’m currently developing cross-platform mobile applications using Flutter.
 - 🌱 I’m currently learning to create games using godot game engine.
 - 👯 I’m looking to collaborate on some cool open source projects.
-- 🤔 I’m looking for help with native functionality in flutter applications.
+- 🤔 I’m looking for help with optimizing and securing mobile applications.
 - 💬 We can have some discussions on interesting tech topics.
 - 📫 How to reach me: suvamkoirala08@gmail.com
 - 😄 Pronouns: curious coder| shuvu
