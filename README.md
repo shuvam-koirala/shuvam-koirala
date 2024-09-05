@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with optimizing and securing mobile applications.
 - 💬 We can have some discussions on interesting tech topics.
 - 📫 How to reach me: suvamkoirala08@gmail.com
-- 😄 Pronouns: curious coder| shuvu
+- 😄 Pronouns: curious coder
 - ⚡ Fun fact: Humans are the only animals that blush and I think myself as human 😄.
 
 ## Flutter Essentials [(View All)](https://github.com/shuvam-koirala/Flutter-Apps)
