@@ -25,7 +25,7 @@
 4. [Sarathi Teacher App](https://play.google.com/store/apps/details?id=com.spellInnovation.sarathi_teacher&hl=en&gl=US)
 5. [Spell SMS App](https://play.google.com/store/apps/details?id=com.spellInnovation.cpass.sms&hl=en&gl=US)
 
-### ⚡&ensp;Social Media
+## Follow On Social Media
 
 [<img align="center" alt="Curious Coder | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />](https://www.youtube.com/channel/UCxei3a_ocUPux_foujUxYUg?sub_confirmation=1)&ensp;YouTube: [@CuriousCoder](https://www.youtube.com/channel/UCxei3a_ocUPux_foujUxYUg) 
 
