@@ -9,6 +9,15 @@
 - 😄 Pronouns: curious coder| shuvu
 - ⚡ Fun fact: Humans are the only animals that blush and I think myself as human 😄.
 
+## Flutter Essentials (Source Codes)
+1. [MQTT_IN_FLUTTER](https://github.com/shuvam-koirala/MQTT_IN_FLUTTER)
+2. [PDF_GENERATE_VIEW_SAVE](https://github.com/shuvam-koirala/PDF_GENERATE_VIEW_SAVE)
+3. [TRIP_LIST_FILTER_EXAMPLE](https://github.com/shuvam-koirala/TRIP_LIST_FILTER_EXAMPLE)
+4. [FLUTTER_FLAVOR_LOCALIZATIONS](https://github.com/shuvam-koirala/FLUTTER_FLAVOR_LOCALIZATIONS)
+5. [TODO_FDA_MVVM_BLOC](https://github.com/shuvam-koirala/TODO_FDA_MVVM_BLOC)
+6. [YOUTUBE_INTEGRATION_FLUTTER](https://github.com/shuvam-koirala/YOUTUBE_INTEGRATION_FLUTTER)
+7. [WORDPRESS_INTEGRATION_FLUTTER](https://github.com/shuvam-koirala/WORDPRESS_INTEGRATION_FLUTTER)
+
 ## Professional Projects (Playstore Links)
 1. [BusSewa App](https://play.google.com/store/apps/details?id=com.diyalo.bussewa&hl=en)
 > <img src="https://play-lh.googleusercontent.com/RucBOegszTgzyHQuE5hzefJT2FOvPFOpNVNwxAt6tF1dDMg-hTNdS4SUFocQyJiQgg=w526-h296-rw" alt="Markdown Monster icon" height="200em" /> <img src="https://play-lh.googleusercontent.com/aZ4aVMGRbm_xjdnUgOD3LOFvUyQtpocyv5bwWdyYxp4xRDa1OjrmzwNSP5vJfO9guII=w526-h296-rw" alt="Markdown Monster icon" height="200em" /> <img src="https://play-lh.googleusercontent.com/mOzpQ3rNGeSJKcVkbauFFNUMoHdq1rTfzvL40vQtIBDv3AaToNLvxgjKAVRdFN6M5WaB=w526-h296-rw" alt="Markdown Monster icon" height="200em" />
