@@ -14,7 +14,7 @@
 2. [PDF_GENERATE_VIEW_SAVE](https://github.com/shuvam-koirala/PDF_GENERATE_VIEW_SAVE)
 3. [TRIP_LIST_FILTER_EXAMPLE](https://github.com/shuvam-koirala/TRIP_LIST_FILTER_EXAMPLE)
 4. [FLUTTER_FLAVOR_LOCALIZATIONS](https://github.com/shuvam-koirala/FLUTTER_FLAVOR_LOCALIZATIONS)
-5. [TODO_FDA_MVVM_BLOC](https://github.com/shuvam-koirala/TODO_FDA_MVVM_BLOC)
+5. [FEATURE DRIVEN ARCHITECTURE_MVVM_BLOC](https://github.com/shuvam-koirala/TODO_FDA_MVVM_BLOC)
 6. [YOUTUBE_INTEGRATION_FLUTTER](https://github.com/shuvam-koirala/YOUTUBE_INTEGRATION_FLUTTER)
 7. [WORDPRESS_INTEGRATION_FLUTTER](https://github.com/shuvam-koirala/WORDPRESS_INTEGRATION_FLUTTER)
 
