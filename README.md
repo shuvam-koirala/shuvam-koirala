@@ -17,6 +17,7 @@
 5. [FEATURE DRIVEN ARCHITECTURE_MVVM_BLOC](https://github.com/shuvam-koirala/TODO_FDA_MVVM_BLOC)
 6. [YOUTUBE_INTEGRATION_FLUTTER](https://github.com/shuvam-koirala/YOUTUBE_INTEGRATION_FLUTTER)
 7. [WORDPRESS_INTEGRATION_FLUTTER](https://github.com/shuvam-koirala/WORDPRESS_INTEGRATION_FLUTTER)
+8. [NATIVE_FILE_DOWNLOADER_FLUTTER](https://github.com/shuvam-koirala/NATIVE_FILE_DOWNLOADER_FLUTTER)
 
 ## Professional Projects [(View All)](https://github.com/shuvam-koirala/Flutter-Apps)
 1. [BusSewa App](https://play.google.com/store/apps/details?id=com.diyalo.bussewa&hl=en)
